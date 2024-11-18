@@ -11,7 +11,7 @@ import java.sql.Statement;
 public class Database {
 
 	private String user = "users";
-	private String password = "Mohd@9696";
+	private String password = "*****";
 	private String url = "jdbc:mysql://localhost:3307/carrentalsystem";
 ;
 	private Statement statement;
